@@ -1,0 +1,126 @@
+//THIS CODE WAS MADE BY DELTA FOR BITBURNER.
+//variable for the script i'm copying
+var script = "iron-gym.script";
+
+//Copies the script defined in the variablew to this server, and then displays a message.
+scp(script, "n00dles")
+print("Copied the script to ||n00dles|| sucessfully!")
+scp(script, "foodnstuff")
+print("Copied the script to ||foodnstuff|| sucessfully!")
+scp(script, "sigma-cosemtics")
+print("Copied the script to ||sigma-cosemtics|| sucessfully!")
+scp(script, "joesguns")
+print("Copied the script to ||joesguns|| sucessfully!")
+scp(script, "nectar-net")
+print("Copied the script to ||nectar-net|| sucessfully!")
+scp(script, "harakiri-sushi")
+print("Copied the script to ||harakiri-sushi|| sucessfully!")
+scp(script, "iron-gym")
+print("Copied the script to ||iron-gym|| sucessfully!")
+scp(script, "pserv-0")
+print("Copied the script to ||pserv-0|| sucessfully!")
+scp(script, "pserv-1")
+print("Copied the script to ||pserv-1|| sucessfully!")
+scp(script, "pserv-2")
+print("Copied the script to ||pserv-2|| sucessfully!")
+scp(script, "pserv-3")
+print("Copied the script to ||pserv-3|| sucessfully!")
+scp(script, "pserv-4")
+print("Copied the script to ||pserv-4|| sucessfully!")
+scp(script, "pserv-5")
+print("Copied the script to ||pserv-5|| sucessfully!")
+scp(script, "pserv-6")
+print("Copied the script to ||pserv-6|| sucessfully!")
+scp(script, "pserv-7")
+print("Copied the script to ||pserv-7|| sucessfully!")
+scp(script, "pserv-8")
+print("Copied the script to ||pserv-8|| sucessfully!")
+// ------------------------------
+
+//extra scripts in commands for when more servers are discovered. You can also use this when you want to add more servers.
+
+// scp(script, "server")
+// print("Copied the script to ||server|| sucessfully!")
+// scp(script, "server")
+// print("Copied the script to ||server|| sucessfully!")
+// scp(script, "server")
+// print("Copied the script to ||server|| sucessfully!")
+// scp(script, "server")
+// print("Copied the script to ||server|| sucessfully!")
+// scp(script, "server")
+// print("Copied the script to ||server|| sucessfully!")
+// scp(script, "server")
+// print("Copied the script to ||server|| sucessfully!")
+// scp(script, "server")
+// print("Copied the script to ||server|| sucessfully!")
+// scp(script, "server")
+// print("Copied the script to ||server|| sucessfully!")
+// scp(script, "server")
+// print("Copied the script to ||server|| sucessfully!")
+
+//kills all scripts running
+killall("n00dles")
+print("Killed all the scripts on ||n00dles|| successfully!")
+killall("foodnstuff")
+print("Killed all the scripts on ||foodnstuff|| successfully!")
+killall("sigma-cosmetics")
+print("Killed all the scripts on ||sigma-cosmetics|| successfully!")
+killall("joesguns")
+print("Killed all the scripts on ||joseguns|| successfully!")
+killall("nectar-net")
+print("Killed all the scripts on ||netctar-net|| successfully!")
+killall("harakari-sushi")
+print("Killed all the scripts on ||harakari-sushi|| successfully!")
+killall("iron-gym")
+print("Killed all the scripts on ||irno-gym|| successfully!")
+killall("pserv-0")
+print("Killed all the scripts on ||pserv-0|| successfully!")
+killall("pserv-1")
+print("Killed all the scripts on ||pserv-1|| successfully!")
+killall("pserv-2")
+print("Killed all the scripts on ||pserv-2|| successfully!")
+killall("pserv-3")
+print("Killed all the scripts on ||pserv-3|| successfully!")
+killall("pserv-4")
+print("Killed all the scripts on ||pserv-4|| successfully!")
+killall("pserv-5")
+print("Killed all the scripts on ||pserv-5|| successfully!")
+killall("pserv-6")
+print("Killed all the scripts on ||pserv-6|| successfully!")
+killall("pserv-7")
+print("Killed all the scripts on ||pserv-7|| successfully!")
+killall("pserv-8")
+print("Killed all the scripts on ||pserv-8|| successfully!")
+
+exec(script, "n00dles", 3);
+print("Executed script on ||n00dles|| successfully!")
+exec(script, "foodnstuff", 3);
+print("Executed script on ||foodnstuff|| successfully!")
+exec(script, "sigma-cosemetics", 3);
+print("Executed script on ||sigma-cosemtics|| successfully!")
+exec(script, "joesguns", 3);
+print("Executed script on ||joesguns|| successfully!")
+exec(script, "nectar-net", 3);
+print("Executed script on ||nectar-net|| successfully!")
+exec(script, "harakiri-sushi", 3);
+print("Executed script on ||harakiri-sushi|| successfully!")
+exec(script, "iron-gym", 3);
+print("Executed script on ||iron-gym|| successfully!")
+exec(script, "pserv-0", 3);
+print("Executed script on ||pserv-0|| successfully!")
+exec(script, "pserv-1", 3);
+print("Executed script on ||pserv-1|| successfully!")
+exec(script, "pserv-2", 3);
+print("Executed script on ||pserv-2|| successfully!")
+exec(script, "pserv-3", 3);
+print("Executed script on ||pserv-3|| successfully!")
+exec(script, "pserv-4", 3);
+print("Executed script on ||pserv-4|| successfully!")
+exec(script, "pserv-5", 3);
+print("Executed script on ||pserv-5|| successfully!")
+exec(script, "pserv-6", 3);
+print("Executed script on ||pserv-6|| successfully!")
+exec(script, "pserv-7", 3);
+print("Executed script on ||pserv-7|| successfully!")
+exec(script, "pserv-8", 3);
+print("Executed script on ||pserv-8|| successfully!")
