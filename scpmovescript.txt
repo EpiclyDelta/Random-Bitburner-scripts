@@ -1,13 +1,14 @@
 //THIS CODE WAS MADE BY DELTA FOR BITBURNER.
+//I recommend using run scpmovescript.script; tail scpmovescript.script
 //variable for the script i'm copying
 var script = "iron-gym.script";
 
-//Copies the script defined in the variablew to this server, and then displays a message.
+//Copies the script defined in the variable to this server, and then displays a message in the log.
 scp(script, "n00dles")
 print("Copied the script to ||n00dles|| sucessfully!")
 scp(script, "foodnstuff")
 print("Copied the script to ||foodnstuff|| sucessfully!")
-scp(script, "sigma-cosemtics")
+scp(script, "sigma-cosmetics")
 print("Copied the script to ||sigma-cosemtics|| sucessfully!")
 scp(script, "joesguns")
 print("Copied the script to ||joesguns|| sucessfully!")
@@ -69,8 +70,8 @@ killall("joesguns")
 print("Killed all the scripts on ||joseguns|| successfully!")
 killall("nectar-net")
 print("Killed all the scripts on ||netctar-net|| successfully!")
-killall("harakari-sushi")
-print("Killed all the scripts on ||harakari-sushi|| successfully!")
+killall("harakiri-sushi")
+print("Killed all the scripts on ||harakiri-sushi|| successfully!")
 killall("iron-gym")
 print("Killed all the scripts on ||irno-gym|| successfully!")
 killall("pserv-0")
@@ -96,7 +97,7 @@ exec(script, "n00dles", 3);
 print("Executed script on ||n00dles|| successfully!")
 exec(script, "foodnstuff", 3);
 print("Executed script on ||foodnstuff|| successfully!")
-exec(script, "sigma-cosemetics", 3);
+exec(script, "sigma-cosmetics", 3);
 print("Executed script on ||sigma-cosemtics|| successfully!")
 exec(script, "joesguns", 3);
 print("Executed script on ||joesguns|| successfully!")
