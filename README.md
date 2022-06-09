@@ -8,3 +8,11 @@ Bitburner is a free to play Steam gamethat is a programming-based incremental ga
 
 # What will be in here?
 Just some beginner scripts, nothing too heavy. A noteable one is the Mass SCP file-transfer
+
+# How do I add/execute this in the game?
+For all you beginners out there, you just type the following:
+nano scriptname.script (Please replace scriptname with either the script name you want or the scriptname in the Repository!)
+Paste the code from the .txt thats in this Repository
+Ctrl/Cmd + S (Saves the file)
+Ctrl/Cmd + B (Goes back to terminal)
+run scriptname.script
